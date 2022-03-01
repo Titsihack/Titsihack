@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Titsihack
+- 👀 I’m interested in Speed ​​of action and working properly
+- 🌱 I’m currently learning Python and Linux 
